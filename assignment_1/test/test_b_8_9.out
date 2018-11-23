@@ -1,0 +1,50 @@
+Enter command (a,g,p,q,r, h for Help)> Enter card ID: Enter amount: Not valid. Enter a valid value: Card added.
+Enter command (a,g,p,q,r, h for Help)> Enter card ID: Enter amount: Not valid. Enter a valid value: Card added.
+Enter command (a,g,p,q,r, h for Help)> Enter card ID: Enter amount: Card added.
+Enter command (a,g,p,q,r, h for Help)> Enter card ID: Enter amount: Card added.
+Enter command (a,g,p,q,r, h for Help)> Enter card ID: Enter amount: Card added.
+Enter command (a,g,p,q,r, h for Help)> Enter card ID: Enter amount: Not valid. Enter a valid value: Card added.
+Enter command (a,g,p,q,r, h for Help)> Enter card ID: Enter amount: Not valid. Enter a valid value: Card added.
+Enter command (a,g,p,q,r, h for Help)> Enter card ID: Enter amount: Card added.
+Enter command (a,g,p,q,r, h for Help)> Enter card ID: Enter amount: Card added.
+Enter command (a,g,p,q,r, h for Help)> -----------------
+Card ID: 12296702
+Balance: $119.08
+-----------------
+-----------------
+Card ID: 15884579
+Balance: $30.28
+-----------------
+-----------------
+Card ID: 22317511
+Balance: -$1.17
+Low balance
+-----------------
+-----------------
+Card ID: 27005466
+Balance: $200.72
+-----------------
+-----------------
+Card ID: 29984325
+Balance: $47.01
+-----------------
+-----------------
+Card ID: 55178414
+Balance: $172.72
+-----------------
+-----------------
+Card ID: 57603950
+Balance: $50.00
+-----------------
+-----------------
+Card ID: 61883798
+Balance: -$2.02
+Low balance
+-----------------
+-----------------
+Card ID: 91746286
+Balance: $151.98
+-----------------
+Enter command (a,g,p,q,r, h for Help)> Number of cards on file: 9
+Average balance: $85.40
+Enter command (a,g,p,q,r, h for Help)> Bye.
